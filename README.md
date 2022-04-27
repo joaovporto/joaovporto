@@ -7,7 +7,7 @@
 
 
 
-People call me Porto, I'm currently in college and I dedicate all my time currently to Full Stack Web Developer. I'm a tech enthusiast and open source advocate. I am always collaborating on open/disruptive projects and ideas. Learn more about me and feel free to connect with me here:
+People call me Porto, I'm currently in college and I dedicate all my time currently to Full Stack Web Developer. I'm a tech enthusiast and open source advocate. I am always collaborating on open/disruptive projects and ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://www.linkedin.com/in/joãovictorporto//)](https://www.linkedin.com/in/joãovictorporto/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jportoferreira@gmail.com)](mailto:jportoferreira@gmail.com)
