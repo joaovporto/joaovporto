@@ -1,4 +1,4 @@
-### hey!
+### 👋 Hello world, i'm João
 
 <img align="right" alt="GIF" src="https://github.com/joaovporto/joaovporto/blob/main/miau.gif?raw=true" width="500" height="320" />
 
